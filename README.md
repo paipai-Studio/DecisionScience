@@ -6,7 +6,7 @@
 What is Decision Science？
 </p>
 
-<img src="Z/0.0.0.0-000.jpeg" height=400>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/0.0.0.0-000.jpeg" height=400>
 
 </p>
 事实上，我们在做一件很需要专注的事情，需要不止10000个小时。
