@@ -249,6 +249,7 @@
 
 可知，SAS、NLP1、NLP1+SAS模型ROC分别稳定在0.89、0.96、0.97，而NLP2模型随着时间推移ROC已不足0.75，语料更新比预想还要快，据此构建的NLP模型ROC下滑明显。但我们仍可采用如NLP1模型**每月重新训练**来保证模型效果。
 
+* 【飞桨Paddle】我们可以通过 [https://github.com/PaddlePaddle/PaddleNLP/tree/develop/slm/model_zoo/bert](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/slm/model_zoo/bert) 实现。
 
 举例：获取认证用户自上传的视频信息，通过目标检测来实现视觉风控，即如图左一、二可能优于左三、四、五。
 
@@ -283,6 +284,8 @@
 > 商汤科技与香港中文大学联合开源mmdetection，[https://github.com/open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection) 
 > 
 > 个人比较熟悉mmdetection，也主要推荐，但需GPU资源。
+>
+> * 【飞桨Paddle】我们可以通过 [https://github.com/PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) 实现。
 > 
 > 常见算法：
 
@@ -296,6 +299,8 @@
 > D、编码识别
 > 
 > 身份信息识别、手写数字识别、验证码识别等。
+>
+> * 【飞桨Paddle】我们可以通过 [https://paddlepaddle.github.io/PaddleOCR/latest/ppocr/blog/ocr_book.html](https://paddlepaddle.github.io/PaddleOCR/latest/ppocr/blog/ocr_book.html) 动手学OCR。
 > 
 > E、待补充
 > 
@@ -316,7 +321,7 @@
 > 
 > 简单接触过**工业级图深度学习开源框架Euler**，[https://github.com/alibaba/euler](https://github.com/alibaba/euler)
 > 
-> `待深入`
+> * 【飞桨Paddle】我们可以通过 [https://github.com/PaddlePaddle/PaddleNLP/tree/develop/slm/examples/text_graph/erniesage](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/slm/examples/text_graph/erniesage) 实现。
 > 
 > （2）图统计特征
 > 
@@ -475,6 +480,8 @@ Bagging和Boosting:
 - 奖惩：根据业务目标，可综合响应率、办理量、手续费收入的提升度；
 - 回合：结合策略迭代周期，可细化到月、周、日；
 
+* 【飞桨Paddle】我们可以通过 [https://github.com/PaddlePaddle/PARL/tree/develop/examples/DQN](https://github.com/PaddlePaddle/PARL/tree/develop/examples/DQN) 实现。
+
 #### 7.1.5.2 对抗攻击
 首先，这里的对抗指的是同对抗攻击、对抗样本相关的领域，主要关注`模型在小扰动下的稳健性`。
 在风控模型策略中引入对抗概念，用于解决：
@@ -483,6 +490,8 @@ Bagging和Boosting:
 - 模型特殊/边际输入值结果验证
 - 专家经验评分卡有效性验证
 - 欺诈识别能力检测
+
+* 【飞桨Paddle】我们可以通过 [https://github.com/PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN) 实现。
 
 等。
 
