@@ -9,3 +9,5 @@
 [1.5 Excel](./1.5%20Excel)
 
 [1.6 Julia](./1.6%20Julia)
+
+[1.7 PaddlePaddle](./1.7%20PaddlePaddle)
