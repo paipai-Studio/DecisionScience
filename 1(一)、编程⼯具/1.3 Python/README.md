@@ -1,3 +1,8 @@
+[全文目录](https://aistudio.baidu.com/projectdetail/8623759)
+
+---
+
+## 1.3 Python
 
 - [1.3.1 Python之禅](#131-python之禅)
 - [1.3.2 Python教程](#132-python教程)
@@ -819,7 +824,7 @@ def f(a):
 示例，009.Test_multiprocessing_run, multiprocessing多线程
 
 <p align="center">
-<img src="../../Z/1.3.8.0-000.png" height=400>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/1.3.8.0-000.png" height=400>
 </p>
 
 ### 1.3.9 Python编译

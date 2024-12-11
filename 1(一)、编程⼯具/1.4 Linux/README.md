@@ -1,3 +1,8 @@
+[全文目录](https://aistudio.baidu.com/projectdetail/8623759)
+
+---
+
+## 1.4 Linux
 
 - [1.4.1 Linux版本](#141-linux版本)
 - [1.4.2 Linux命令](#142-linux命令)
@@ -301,19 +306,19 @@ ps -ef|grep python
 #### ~编辑脚本文件
 
 <p align="center">
-<img src="../../Z/1.4.2.0-000.png" height=400>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/1.4.2.0-000.png" height=400>
 </p>
 
 <p align="center">
-<img src="../../Z/1.4.2.0-001.jpeg" height=400>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/1.4.2.0-001.jpeg" height=400>
 </p>
 
 <p align="center">
-<img src="../../Z/1.4.2.0-002.jpeg" height=400>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/1.4.2.0-002.jpeg" height=400>
 </p>
 
 <p align="center">
-<img src="../../Z/1.4.2.0-003.jpeg" height=400>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/1.4.2.0-003.jpeg" height=400>
 </p>
 
 > 详见 [https://www.runoob.com/linux/linux-vim.html](https://www.runoob.com/linux/linux-vim.html)
@@ -330,7 +335,7 @@ cat run.sh
 #### ~修改文件权限
 
 <p align="center">
-<img src="../../Z/1.4.2.0-004.png" height=400>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/1.4.2.0-004.png" height=400>
 </p>
 
 > 详见 [https://www.runoob.com/linux/linux-comm-chmod.html](https://www.runoob.com/linux/linux-comm-chmod.html)
