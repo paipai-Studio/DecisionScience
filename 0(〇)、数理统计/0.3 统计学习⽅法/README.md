@@ -1,3 +1,8 @@
+[全文目录](https://aistudio.baidu.com/projectdetail/8623759)
+
+---
+
+## 0.3 统计学习⽅法
 
 - [0.3.1 关键书籍](#031-关键书籍)
 - [0.3.2 学习示例](#032-学习示例)
@@ -30,7 +35,7 @@
 #### 0.3.2.1 牛顿法原理
 
 <p align="center">
-<img src="../../Z/0.3.2.0-000.png" height=400>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/0.3.2.0-000.png" height=400>
 </p>
 
 #### 0.3.2.2 计算过程

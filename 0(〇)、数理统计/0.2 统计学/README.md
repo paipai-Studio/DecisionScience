@@ -1,3 +1,8 @@
+[全文目录](https://aistudio.baidu.com/projectdetail/8623759)
+
+---
+
+## 0.2 统计学
 
 - [0.2.1 统计学透视](#021-统计学透视)
 - [0.2.2 贝叶斯与概率论](#022-贝叶斯与概率论)
@@ -152,7 +157,7 @@ $[\hat \mu - z * SEM, \hat \mu + z * SEM]$
 $P(T|D) = \frac{P(T)P(D|T)}{P(D)}$
 
 <p align="center">
-<img src="../../Z/0.2.8.0-000.jpeg" height=300>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/0.2.8.0-000.jpeg" height=300>
 </p>
 
 举例，问：现分别有 A、B 两个容器，在容器 A 里分别有 7 个红球和 3 个白球，在容器 B 里有 1 个红球和 9 个白球，现已知从这两个容器里任意抽出了一个红球，问这个球来自容器 A 的概率是多少？
@@ -192,7 +197,7 @@ Image('images/monty.png')
 ```
 
 <p align="center">
-<img src="../../Z/0.2.A.0-000.png" height=300>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/0.2.A.0-000.png" height=300>
 </p>
 
 ```python
