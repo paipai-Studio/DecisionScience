@@ -36,6 +36,9 @@ demo &= \frac{n}{m} & （1）\\
 &= \frac{1000}{3000} \approx 0.3333 & （2）
 \end{align}
 $$
+<p align="center">
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/5.latex.20241213-030207.jpg" width=600>
+</p>
 
 ### 5.5.1 示例模型
 
@@ -146,6 +149,9 @@ accuracy &= \frac{TP+TN}{TP+TN+FP+FN} \\
 &= \frac{3170+3155}{3170+3155+1853+1822} = 0.6325
 \end{align}
 $$
+<p align="center">
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/5.latex-20241213-031109.jpg" width=600>
+</p>
 
 原则上，准确率越大越好，但并不好量化优劣，毕竟存在模型输出均为0时准确率已达98%（若1占比仅2%）。
 
@@ -157,6 +163,9 @@ precision &= \frac{TP}{TP+FP} \\
 &= \frac{3170}{3170+1853} \approx 0.6311
 \end{align}
 $$
+<p align="center">
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/5.latex.20241213-031344.jpg" width=600>
+</p>
 
 - 召回率
 
@@ -166,6 +175,9 @@ recall &= \frac{TP}{TP+FN} \\
 &= \frac{3170}{3170+1822} = \approx 0.6350
 \end{align}
 $$
+<p align="center">
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/5.latex.20241213-031430.jpg" width=600>
+</p>
 
 精确率与召回率，一般认定追求更高精准率将损失一定的召回率，反之同理。后将辅证之。
 
@@ -179,6 +191,9 @@ F_1 &= \frac{2\times precision \times recall}{precision+recall} \\
 &= \frac{2 \times 0.6311 \times 0.6350}{0.6311+0.6350} \approx 0.6331
 \end{align}
 $$
+<p align="center">
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/5.latex.20241213-031521.jpg" width=600>
+</p>
 
 更一般的，我们定义 $F_\beta$分数：
 
@@ -198,6 +213,9 @@ G &= \sqrt{precision \times recall} \\
 &= \sqrt{0.6311 \times 0.6350} \approx 0.6331
 \end{align}
 $$
+<p align="center">
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/5.latex.20241213-031624.jpg" width=600>
+</p>
 
 - $kappa$值
 
@@ -209,6 +227,9 @@ p_e &= \frac{(TN+FN)\times(TN+FP)+(TP+FN)\times(TP+FP)}{(TP+TN+FP+FN)^2} \\ &=\f
 &\approx 0.5000
 \end{align}
 $$
+<p align="center">
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/5.latex.20241213-031725.jpg" width=600>
+</p>
 
 $$
 \begin {align}
@@ -216,6 +237,9 @@ kappa &= \frac{p_0-p_e}{1-p_e} \\
 &= \frac{0.6325-0.5000}{1-0.5000} \approx 0.2650
 \end {align}
 $$
+<p align="center">
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/5.latex.20241213-031813.jpg" width=600>
+</p>
 
 一般认定，
 
@@ -240,6 +264,9 @@ FPR &= \frac{FP}{FP+TN} \\
 &= \frac{1853}{1853+3155} \approx 0.3700
 \end{align}
 $$
+<p align="center">
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/5.latex.20241213-031904.jpg" width=600>
+</p>
 
 - 真阳性率 $TPR$
 
@@ -251,6 +278,9 @@ TPR = recall &= \frac{TP}{TP+FN} \\
 &= \frac{3170}{3170+1822} \approx 0.6350
 \end{align}
 $$
+<p align="center">
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/5.latex.20241213-031947.jpg" width=600>
+</p>
 
 #### 5.5.3.2 相互关系
 
@@ -431,6 +461,9 @@ AUC &= \frac{\sum(I(P_T > P_F))}{n_T \times n_F} \\
 &= \frac{1+0+1+1}{4} = 0.75\\
 \end{align}
 $$
+<p align="center">
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/5.latex.20241213-032116.jpg" width=600>
+</p>
 
 - 方法3
 
@@ -452,6 +485,9 @@ AUC &= \frac{-\frac{n_T(1+n_T)}{2}+\sum_i{rank_i|T}}{n_T \times n_F} \\
 &= \frac{-\frac{2(1+2)}{2}+(4+2)}{4} = \frac{-3+6}{4} = 0.75
 \end{align}
 $$
+<p align="center">
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/5.latex.20241213-032152.jpg" width=600>
+</p>
 
 一般认定，
 
