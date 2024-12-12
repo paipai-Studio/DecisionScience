@@ -15,6 +15,7 @@
   - [3.1.3.4 数据应用](#3134-数据应用)
 - [3.1.4 外部数据](#314-外部数据)
 - [3.1.5 总行数据](#315-总行数据)
+- [3.1.6 互联网数据](#316-互联网数据)
 
 ### 3.1.1 业务系统
 如下示例（其中英文简称不绝对规范，仅作排序参考）：
@@ -377,3 +378,48 @@ _注：ZF、SE为人行报告商业银行代号._
 <p align="center">
 <img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/3.1.5.0-001.png" width=640>
 </p>
+
+### 3.1.6 互联网数据
+
+飞桨社区本身就是个很大的数据共享集市，[https://aistudio.baidu.com/datasetoverview](https://aistudio.baidu.com/datasetoverview)
+
+可以看到很多数据集，对于我们是通用预训练模型帮助很大。
+
+比如，笔者的数据集示例：
+
+* [Match]Protein-CIF-FASTA
+> [https://aistudio.baidu.com/datasetdetail/110179](https://aistudio.baidu.com/datasetdetail/110179)
+
+* [Self]Address2 - 400W地理地址GPS解析
+> [https://aistudio.baidu.com/datasetdetail/298334](https://aistudio.baidu.com/datasetdetail/298334)
+
+当然还有很多优秀的数据集共享者们：
+
+* (1) @小度AIStudio 经典MNIST数据集
+> [https://aistudio.baidu.com/datasetdetail/65](https://aistudio.baidu.com/datasetdetail/65)
+
+* (2) @PaddleTalent 安全帽检测数据集 (Helmet Detection)
+> [https://aistudio.baidu.com/datasetdetail/50329](https://aistudio.baidu.com/datasetdetail/50329)
+
+* (3) @代码生成器 LiTS肝脏/肝肿瘤分割
+> [https://aistudio.baidu.com/datasetdetail/10273](https://aistudio.baidu.com/datasetdetail/10273)
+
+* (4) @深渊上的坑 广东电网智慧现场作业挑战赛赛道一：识别佩戴绝缘手套
+> [https://aistudio.baidu.com/datasetdetail/93633](https://aistudio.baidu.com/datasetdetail/93633)
+
+* (5) @笨笨 pascal-voc
+> [https://aistudio.baidu.com/datasetdetail/4379](https://aistudio.baidu.com/datasetdetail/4379)
+
+* (6) @哦吼 coco-关键点检测
+> [https://aistudio.baidu.com/datasetdetail/9663](https://aistudio.baidu.com/datasetdetail/9663)
+
+* (7) @寂寞你快进去 千言数据集：情感分析
+> [https://aistudio.baidu.com/datasetdetail/53469](https://aistudio.baidu.com/datasetdetail/53469)
+
+* (8) @叔夏33 COCO2017数据集
+> [https://aistudio.baidu.com/datasetdetail/7122](https://aistudio.baidu.com/datasetdetail/7122)
+
+* (9) @没入门的研究生 古诗数据集（全）
+> [https://aistudio.baidu.com/datasetdetail/70759](https://aistudio.baidu.com/datasetdetail/70759)
+
+
