@@ -1,3 +1,8 @@
+[全文目录](https://aistudio.baidu.com/projectdetail/8623759)
+
+---
+
+## 2.3 信⽤卡管理
 
 - [2.3.1 现代信用卡管理](#231-现代信用卡管理)
 - [2.3.2 信用卡运营](#232-信用卡运营)
@@ -100,12 +105,12 @@
 > 摘录简书-百分号
 
 <p align="center">
-  <img src="../../Z/2.3.1.0-000.png" width=1000>
-  <img src="../../Z/2.3.1.0-001.png" width=1000>
-  <img src="../../Z/2.3.1.0-002.png" width=1000>
-  <img src="../../Z/2.3.1.0-003.png" width=1000>
-  <img src="../../Z/2.3.1.0-004.png" width=1000>
-  <img src="../../Z/2.3.1.0-005.png" width=1000>
+  <img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/2.3.1.0-000.png" width=1000>
+  <img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/2.3.1.0-001.png" width=1000>
+  <img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/2.3.1.0-002.png" width=1000>
+  <img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/2.3.1.0-003.png" width=1000>
+  <img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/2.3.1.0-004.png" width=1000>
+  <img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/2.3.1.0-005.png" width=1000>
 </p>
 
 - 期待原作者能继续更新，或者更多人奉献到《现代信用卡管理》的解读中来。
@@ -114,11 +119,11 @@
 #### 2.3.2.1 客户信用卡生命周期
 
 <p align="center">
-<img src="../../Z/2.3.2.1-000.png" width=800>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/2.3.2.1-000.png" width=800>
 </p>
 
 #### 2.3.2.2 信用卡运营地图
 
 <p align="center">
-<img src="../../Z/2.3.2.2-000.png" width=800>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/2.3.2.2-000.png" width=800>
 </p>

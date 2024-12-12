@@ -1,3 +1,8 @@
+[全文目录](https://aistudio.baidu.com/projectdetail/8623759)
+
+---
+
+## 6.2 数据中间层
 
 - [6.2.1 数据领域](#621-数据领域)
 - [6.2.2 设计原则](#622-设计原则)
@@ -6,7 +11,7 @@
 涵盖产品、事件、协议、渠道、参与者、资产、地址、关系、营销、机构、财务等数据领域，如下：
 
 <p align="center">
-<img src="../../Z/6.2.1.0-000.png" height=600>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/6.2.1.0-000.png" height=600>
 </p>
 
 ### 6.2.2 设计原则

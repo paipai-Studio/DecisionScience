@@ -1,3 +1,8 @@
+[全文目录](https://aistudio.baidu.com/projectdetail/8623759)
+
+---
+
+## 8.2 数据测试
 
 - [8.2.1 传统测试](#821-传统测试)
   - [8.2.1.1 常见问题](#8211-常见问题)
@@ -68,11 +73,11 @@ RUN;
 输出结果如下：
 
 <p align="center">
-<img src="../../Z/8.2.1.2-000.png" width=400>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/8.2.1.2-000.png" width=400>
 </p>
 
 <p align="center">
-<img src="../../Z/8.2.1.2-001.png" width=400>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/8.2.1.2-001.png" width=400>
 </p>
 
 

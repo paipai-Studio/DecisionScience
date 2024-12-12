@@ -1,3 +1,8 @@
+[全文目录](https://aistudio.baidu.com/projectdetail/8623759)
+
+---
+
+## 5.2 模型开发
 
 - [5.2.1 特征工程](#521-特征工程)
   - [5.2.1.1 数据清洗](#5211-数据清洗)
@@ -154,7 +159,7 @@ $X_{norm} = \frac{X - X_{mean}}{X_{std}}$
 如下图，血型就是一个类别型特征，其具体值可以为A、B、AB、O，其编码方式有：
 
 <p align="center">
-<img src="../../Z/5.2.1.4-000.png" width=600>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/5.2.1.4-000.png" width=600>
 </p>
 
 （1）序号编码
@@ -295,7 +300,7 @@ from sklearn.feature_selection import RFE
 最后，我们抛开模型算法，专讲欠拟合、过拟合问题，并着重解决方向。
 
 <p align="center">
-<img src="../../Z/5.2.3.0-000.png" width=400>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/5.2.3.0-000.png" width=400>
 </p>
 
 #### 5.2.3.1 欠拟合

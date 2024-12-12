@@ -1,3 +1,8 @@
+[全文目录](https://aistudio.baidu.com/projectdetail/8623759)
+
+---
+
+## 2.1 信⽤卡基础
 
 - [2.1.1 贷前](#211-贷前)
 - [2.1.2 贷中](#212-贷中)
@@ -107,7 +112,7 @@ M1、M2、M3
 ### 2.1.4 账户架构
 
 <p align="center">
-<img src="../../Z/2.1.4.0-000.png">
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/2.1.4.0-000.png">
 </p>
 
 1、客户层

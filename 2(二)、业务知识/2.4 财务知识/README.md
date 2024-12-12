@@ -1,3 +1,8 @@
+[全文目录](https://aistudio.baidu.com/projectdetail/8623759)
+
+---
+
+## 2.4 财务知识
 
 - [2.4.1 收入成本](#241-收入成本)
   - [2.4.1.1 收入项](#2411-收入项)
@@ -140,7 +145,7 @@ b. 对于一次性收取手续费的分期，若该部分分期比重较大，�
 其中，在银联核心系统中，计算所需字段对应的字段名为：
 
 <p align="center">
-<img src="../../Z/2.4.1.2-000.png" height=400>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/2.4.1.2-000.png" height=400>
 </p>
 
 2. 风险成本
@@ -258,7 +263,7 @@ Settlement charges | 单笔原始交易金额：
 > 目标管理是以目标的设置和分解、目标的实施及完成情况的检查、奖惩为手段，通过员工的自我管理来实现企业的经营目的一种管理方法。由美国管理学家德鲁克于20世纪50年代提出，被称为“管理中的管理”。一方面强调完成目标，实现工作成果；另一方面重视人的作用，强调员工自主参与目标的制定、实施、控制、检查和评价。
 
 <p align="center">
-<img src="../../Z/2.4.3.2-000.png" height=400>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/2.4.3.2-000.png" height=400>
 </p>
 
 本质上，这里构成了一个目标管理闭环。
@@ -273,6 +278,6 @@ Settlement charges | 单笔原始交易金额：
 > 现已用于计财部日常预算分析。
 
 <p align="center">
-<img src="../../Z/2.4.4.1-000.png" height=300>
+<img src="https://tjt.obs.cn-southwest-2.myhuaweicloud.com/ds/Z/2.4.4.1-000.png" height=300>
 </p>
 
